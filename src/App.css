@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .App {
     /* display: grid; */
     /* grid-template-columns: 200px 1fr; */
@@ -8,9 +14,43 @@
 }
 
 .navbar {
-    border: 1px solid green;
     height: 100vh;
+    width: 200px;
+    background-color: black;
+    color: white;
+    border-right: 3px solid rgba(23, 23, 227, 0.771);
 }
+.navbar h3 {
+    text-align: center;
+    padding: 30px 0;
+}
+.ulnavbar {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: flex-start;
+}
+.ulnavbar li {
+    cursor: pointer;
+    padding: 7px 0 7px 30px;
+    list-style: none;
+}
+.ulnavbar li:hover {
+    background-color: gray;
+    width: 100%;
+}
+.ulnavbar li:nth-child(6){
+    margin-bottom: 350px; 
+}
+.dashboard, .knowledge, .members, .teams, .vault, .chat, .settings, .company, .myprofile {
+    margin-right: 13px;
+}
+.navbar p {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 10px;
+}
+
 .contents {
     border: 1px solid red;
     min-height: 100vh;
