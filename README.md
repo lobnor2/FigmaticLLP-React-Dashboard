@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![pic](https://i.postimg.cc/SNxMVKRq/Screenshot-2022-06-08-at-5-56-18-PM.png)
+
+
 # live demo and hosted on netlify
 [figmaticllp.netlify.app
 ](https://figmaticllp.netlify.app/)
