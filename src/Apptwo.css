@@ -1,0 +1,48 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+/* .App{
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    color: white;
+    height: 100vh;
+    border-right: 3px solid rgba(3, 3, 233, 0.744);
+} */
+/* .Apptwo h3 {
+    text-align: center;
+    padding-top: 30px;
+} */
+/* .sidebar{
+    display: flex;
+    flex-direction: column;
+
+
+}
+.div1 {
+    margin-top: 30px;
+    margin-bottom: 200px;
+} */
+
+/* .dashboard, .knowledge, .members, .teams, .vault, .chat, .settings, .company, .myprofile {
+    padding: 7px 0 7px 20px;
+    cursor: pointer;
+} */
+/* .dashboard:hover, .knowledge:hover, .members:hover, .teams:hover, .vault:hover, .chat:hover, .settings:hover, .company:hover, .myprofile:hover {
+    background-color: rgba(128, 128, 128, 0.807);
+} */
+
+
+
+/* .footernote {
+    font-size: 12px;
+    text-align: center;
+    padding-top: 9px;
+} */
+
+
+/* .chat span, .company span, .dashboard span, .knowledge span, .members span, .teams span, .vault span, .settings span, .myprofile span{
+    margin-right: 17px;
+}  */
+
