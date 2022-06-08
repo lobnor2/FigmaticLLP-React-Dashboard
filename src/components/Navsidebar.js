@@ -70,6 +70,7 @@ function Navsidebar() {
           MY PROFILE
         </li>
       </ul>
+      <hr className="hrline"/>
       <p>Powered By TeamJeenyus</p>
     </div>
   );
