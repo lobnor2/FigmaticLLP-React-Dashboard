@@ -4,11 +4,6 @@ import { CgProfile } from 'react-icons/cg';
 function Myprofile() {
   return (
     <div className="myprofile">
-      <span>
-
-      <CgProfile />
-      </span>
-      
       MY PROFILE</div>
   )
 }

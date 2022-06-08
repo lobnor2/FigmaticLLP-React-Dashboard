@@ -6,10 +6,6 @@ function Members() {
   return (
     <div className="members">
 
-      <span>
-
-      <BiGroup /> 
-      </span>
       MEMBERS
     </div>
   )

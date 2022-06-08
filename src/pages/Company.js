@@ -3,8 +3,7 @@ import { BiBuildingHouse } from 'react-icons/bi';
 
 function Company() {
   return (
-    <div className="company"> <span> <BiBuildingHouse />
-      </span>COMPANY</div>
+    <div className="company">COMPANY</div>
   )
 }
 
