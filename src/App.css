@@ -5,9 +5,6 @@
 }
 
 .App {
-    /* display: grid; */
-    /* grid-template-columns: 200px 1fr; */
-    /* display: flex; */
     display: grid;
     grid-template-columns: 200px 1fr;
 
@@ -19,7 +16,6 @@
     background-color: black;
     color: white;
     border-right: 3px solid rgba(23, 23, 227, 0.771);
-    /* position: fixed; */
 }
 .navbar h3 {
     text-align: center;
@@ -53,10 +49,6 @@
 }
 
 .contents {
-    /* border: 1px solid red; */
     min-height: 100vh;
-}
-.hrline {
-    padding:0;
-   
+    background-color:d ;
 }

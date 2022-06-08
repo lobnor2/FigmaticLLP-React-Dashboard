@@ -52,3 +52,9 @@
 
     /* gap: -50px; */
 }
+
+#input-with-icon-textfield {
+    border-radius: 0;
+    background-color: white;
+    padding: 5px 5px 5px 5px ;
+}
