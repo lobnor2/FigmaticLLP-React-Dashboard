@@ -1,9 +1,11 @@
 import React from 'react';
-import { BsChatLeftText } from 'react-icons/bs';
+import { BsChatSquareText } from 'react-icons/bs';
 
 function Chat() {
   return (
-    <div className="chat"><BsChatLeftText />CHAT</div>
+    <div className="chat">
+      <span><BsChatSquareText /></span> <span className='chattext'>CHAT</span> 
+    </div>
   )
 }
 

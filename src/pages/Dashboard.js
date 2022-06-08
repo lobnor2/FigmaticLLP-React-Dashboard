@@ -4,7 +4,11 @@ import { BiHomeAlt } from 'react-icons/bi';
 function Dashboard() {
   return (
     <div className="dashboard">
-      <BiHomeAlt />DASHBOARD
+      <span>
+
+      <BiHomeAlt />
+      </span>
+      DASHBOARD
     </div>
   )
 }

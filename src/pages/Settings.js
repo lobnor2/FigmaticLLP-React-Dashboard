@@ -3,7 +3,14 @@ import { FiSettings } from 'react-icons/fi';
 
 function Settings() {
   return (
-    <div className="settings"><FiSettings />SETTINGS</div>
+    <div className="settings">
+      <span>
+
+
+      <FiSettings />
+      </span>
+      
+      SETTINGS</div>
   )
 }
 
