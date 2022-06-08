@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# live demo and hosted on netlify
+[figmaticllp.netlify.app
+](https://figmaticllp.netlify.app/)
 ## Available Scripts
 
 In the project directory, you can run:
