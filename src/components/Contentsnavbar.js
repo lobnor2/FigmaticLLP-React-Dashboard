@@ -1,5 +1,4 @@
 import React from "react";
-import { BiDotsVerticalRounded } from "react-icons/bi";
 import Newcomponent from "./Newcomponent";
 
 function Contentsnavbar() {
